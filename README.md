@@ -14,8 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Age: 33
 
 ## Groups
-- testgroup1
-- testgroup2
+- [testgroup](https://github.com/ViSingers/group-template)
 
 ## First test bank
 Test description 1
