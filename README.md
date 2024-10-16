@@ -1,4 +1,4 @@
-# Singer Template
+# Your singer name
 [English](README.md) | [Русский](README.ru.md)
 
 ![Avatar](/image.png)
