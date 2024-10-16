@@ -13,6 +13,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Weight: 222g
 - Age: 33
 
+## Terms of use
+- R-18 Content Allowed: Idk
+- Commercial Use of Voicebank Allowed: Yes
+- Commercial Use of Character Allowed: Permission Required
+- Do these terms apply to derivative characters/voices: Yes
+
 ## Groups
 - [testgroup](https://github.com/ViSingers/group-template)
 
