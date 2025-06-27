@@ -32,7 +32,7 @@ Unfinished and cancelled CVVC UTAU voicebank. This voicebank will not be recievi
 - Languages: Japanese
 
 ## Videos
-[![REBOUND Team Cipstik Demo]([https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg](https://youtu.be/eoWDAg84yZM?si=RlUjztlD8xVNkG3O))
-[![REBOUND Bake no Hana Cover]([https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg](https://youtu.be/FZ5xWIZQtNk?si=e7sTgp79krNQf-LJ))
-[![MUSE Team Cipstik Demo]([https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/StlZnXhwnk4](https://youtu.be/GwZLH_23O2I?si=EFc9gpMpAhs3CCnP))
-[![MUSE Pre-Release Tabun Owari Cover]([https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg](https://youtu.be/mmwo21muXck?si=Zj-ccsmJOCatHQeZ))
+[![REBOUND Team Cipstik Demo](https://youtu.be/eoWDAg84yZM?si=RlUjztlD8xVNkG3O)
+[![REBOUND Bake no Hana Cover](https://youtu.be/FZ5xWIZQtNk?si=e7sTgp79krNQf-LJ)
+[![MUSE Team Cipstik Demo](https://youtu.be/GwZLH_23O2I?si=EFc9gpMpAhs3CCnP)
+[![MUSE Tabun Owari Cover](https://youtu.be/mmwo21muXck?si=Zj-ccsmJOCatHQeZ)
