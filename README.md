@@ -7,7 +7,7 @@
 Free virtual singer voiebank from Team Cipstik, currently only compatible with UTAU.
 
 ## General information
-- Gender: Masculine Presenting
+- Gender: Masculine Presenting (He/They)
 - Height: 153cm
 - Age: 21
 - Birthday: August 22nd
