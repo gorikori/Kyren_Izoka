@@ -1,36 +1,35 @@
-# Your singer name
-[English](README.md) | [Русский](README.ru.md)
+# Kyren Izoka
 
 ![Avatar](/image.png)
 
-Good example: [Awata Weak](https://github.com/hhskt/Awata_Weak)
+[English](README.md)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Free virtual singer voiebank from Team Cipstik, currently only compatible with UTAU.
 
 ## General information
-- Gender: Test
-- Height: 111m
-- Weight: 222g
-- Age: 33
+- Gender: Masculine Presenting
+- Height: 153cm
+- Age: 21
+- Birthday: August 22nd
 
 ## Terms of use
-- R-18 Content Allowed: Idk
-- Commercial Use of Voicebank Allowed: Yes
+- R-18 Content Allowed: No
+- Commercial Use of Voicebank Allowed: Permission Required
 - Commercial Use of Character Allowed: Permission Required
-- Do these terms apply to derivative characters/voices: Yes
+- Do these terms apply to derivative characters/voices: Unofficial derivatives are not allowed.
 
 ## Groups
-- [testgroup](https://github.com/ViSingers/group-template)
+- TBA
 
-## First test bank
-Test description 1
-- Type: Diffsinger
-- Languages: Russian, Japanese
-
-## Second test bank
-Test description 2
+## UTAU - REBOUND -
+CVVC UTAU voicebank recorded on September 21st 2023, released Sebtember 19th 2024.
 - Type: UTAU
-- Languages: English
+- Languages: Japanese
+
+## UTAU - MUSE -
+Unfinished and cancelled CVVC UTAU voicebank. This voicebank will not be recieving 
+- Type: UTAU
+- Languages: Japanese
 
 ## Videos
 [![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
