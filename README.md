@@ -27,7 +27,7 @@ CVVC UTAU voicebank recorded on September 21st 2023, released Sebtember 19th 202
 - Languages: Japanese
 
 ## UTAU - MUSE -
-Unfinished and cancelled CVVC UTAU voicebank. This voicebank will not be recieving 
+Unfinished and cancelled CVVC UTAU voicebank. This voicebank will not be recieving updates.
 - Type: UTAU
 - Languages: Japanese
 
