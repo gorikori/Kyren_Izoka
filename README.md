@@ -4,7 +4,7 @@
 
 [English](README.md)
 
-Free virtual singer voiebank from Team Cipstik, currently only compatible with UTAU.
+Free virtual singer voiebank from Team Cipstik, currently only compatible with UTAU
 
 ## General information
 - Gender: Masculine Presenting (He/They)
